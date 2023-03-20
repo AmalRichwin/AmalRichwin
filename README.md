@@ -1,9 +1,8 @@
 ### Hello👋 I'm Richwin and I live in chennai.<br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsu-kim-336289160/)](https://www.linkedin.com/in/amal-r-94602785/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minsu._.0102/)](https://www.instagram.com/_richwin_/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsu-kim-336289160/)](https://www.linkedin.com/in/amal-r-94602785/)  
 
 
-- ⏰ I think **consistency** is my biggest strength.
 - 📝 I mainly use TypeScript, and I am interested in systems programming.
 - 🙌 I enjoy meeting good developers and talking about development.
 - 🌱 I’m currently learning Database Concepts and Networking Fundamentals
